@@ -1,0 +1,10 @@
+{
+  "name": "upwork-style-escrow",
+  "version": "1.0.0",
+  "description": "Milestone-based freelance payments and dispute resolution",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
